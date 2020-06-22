@@ -1,11 +1,17 @@
 # ML-Study
 <br/>
 
-> 간단하게 머신러닝 관련해 공부해보자.
+> 간단하게 인공지능에 관련해 공부해보자.
 
 
 
+<br/>
 
+## K-ICT
+
+<br/>
+
+- K-ICT 빅데이터센터에 있는 인공지능 관련 교육 동영상을 시청하고 학습한 내용이다.
 
 
 
@@ -13,6 +19,6 @@
 
 <br/><br/>
 
-### 참고
+### Reference
 
-[파면 팔수록 쉽고 재미있는 머신러닝](https://kbig.kr/portal/kbig/knowledge/onl_edu_class/python)
+- [K-ICT 빅데이터 센터]( https://kbig.kr/portal/kbig )
